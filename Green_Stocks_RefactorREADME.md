@@ -10,7 +10,9 @@ The code ran quicker after the refactoring. This was accomplished in part by cre
 ![VBA Challenge Time 2017](https://github.com/pcar22/Stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 The code run time for the original code is 0.8359375
-The image below is the code run time on the "2018" dataset after refactoring.
+### The image below is the code run time on the "2018" dataset after refactoring.
+
+![VBA Challenge Time 2018](https://github.com/pcar22/Stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 The code run time for the original code is 0.9648438
 

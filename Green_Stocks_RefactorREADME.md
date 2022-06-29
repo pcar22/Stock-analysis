@@ -5,7 +5,7 @@ I was aksed by Steve to expand on the Green_Stocks workbook, that Steve loves. T
 The purpose of this challenge was to refactor the VBA code used in the AllStockAnalysis and make it run more efficiently. In the future the dataset might grow and there will be data to parse. Refactoring the code the macro should run quicker. 
 ### Results
 The code ran quicker after the refactoring. This was accomplished in part by creating 3 new output arrays and looping through those named arrays.
-The image below is the code run time on the "2017" dataset after refactoring.
+### The image below is the code run time on the "2017" dataset after refactoring.
 
 ![VBA Challenge Time 2017](https://github.com/pcar22/Stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
